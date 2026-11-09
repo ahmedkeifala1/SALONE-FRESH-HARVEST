@@ -1,0 +1,12 @@
+{
+  "name": "Salone Fresh Harvest",
+  "short_name": "Fresh Harvest",
+  "description": "Fresh farm produce straight from Sierra Leone farmers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f2ea",
+  "theme_color": "#18341f",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
